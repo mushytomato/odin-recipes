@@ -1,2 +1,2 @@
-My first GitHub repo!
-Hello Odin BALD !
+My first website about food recipes
+It contains lasagna and pizza recipes
